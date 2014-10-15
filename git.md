@@ -73,7 +73,7 @@ Transmit chunks to remote chunkstore
 ====================================
 
 ```
-git transmit
+git push
 ```
 
 Fetch chunks from remote chunkstore
