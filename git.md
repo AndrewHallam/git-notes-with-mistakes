@@ -20,7 +20,7 @@ To turn on the version control system, use:
 
 ``` bash
 cd my_work_folder
-git begin
+git init
 ```
 
 Tell Git about a new file
