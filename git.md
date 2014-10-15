@@ -80,5 +80,5 @@ Fetch chunks from remote chunkstore
 ===================================
 
 ```
-git download
+git pull
 ```
