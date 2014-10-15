@@ -52,7 +52,7 @@ Store all scheduled changes in a new commit
 ==========================================
 
 ```
-git add --uptodate
+git add --update
 ```
 
 Include all changes *and* commit them
