@@ -69,14 +69,14 @@ View list of recent chunks
 git journal
 ```
 
-Transmit chunks to remote chunkstore
+Transmit chunks to remote repository
 ====================================
 
 ```
 git push
 ```
 
-Fetch chunks from remote chunkstore
+Fetch chunks from remote repository
 ===================================
 
 ```
