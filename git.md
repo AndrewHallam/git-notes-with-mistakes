@@ -66,7 +66,7 @@ View list of recent commits
 ==========================
 
 ```
-git journal
+git log
 ```
 
 Push commits to remote repository
