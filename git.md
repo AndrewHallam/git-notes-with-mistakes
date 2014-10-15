@@ -39,7 +39,7 @@ git add my_file
 ```
 
 This includes the changes to that file in a list of changes
-currently scheduled to be included in the next work chunk.
+currently scheduled to be included in the next work commit.
 
 Include all scheduled changes into a work commit
 ===============================================
