@@ -62,21 +62,21 @@ Include all changes *and* commit them
 git commit -am "Journal entry"
 ```
 
-View list of recent commit
+View list of recent commits
 ==========================
 
 ```
 git journal
 ```
 
-Push commit to remote repository
+Push commits to remote repository
 ====================================
 
 ```
 git push
 ```
 
-Fetch chunks from remote repository
+Fetch commits from remote repository
 ===================================
 
 ```
